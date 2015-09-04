@@ -29,5 +29,13 @@ I have a virtual machine of Kali Linux that I will use for this course.
 Here is a screenshot of the OS with a terminal:
 ![mounted my Git repository!](https://cloud.githubusercontent.com/assets/14128808/9690059/2485569a-5308-11e5-9d96-eead2d71bf65.png)
 
+### Task 8 - RegexOne
+
+The first two were easy, both accepted ".*"
+
+Here are screenshots of the next two:
+![screenshot from 2015-09-04 13 29 29](https://cloud.githubusercontent.com/assets/14128808/9690243/2a8c2d74-5309-11e5-8180-3c681d56a0da.png)
+![screenshot from 2015-09-04 13 30 23](https://cloud.githubusercontent.com/assets/14128808/9690244/2a95e850-5309-11e5-9dd6-91d8752d8cfc.png)
+
 
 
