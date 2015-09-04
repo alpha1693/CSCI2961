@@ -23,5 +23,11 @@ Bring yourself to their level: don't assume that everyone inherently understands
 
 Stay grounded: this goes along with the last *tip*; don't try and make the asker look dumb by asserting some esoteric facts on them.  Take it more like a community approach, keep helping others and making people smarter.
 
+### Task 5 - Using Linux
+I have a virtual machine of Kali Linux that I will use for this course.
+
+Here is a screenshot of the OS with a terminal:
+![mounted my Git repository!](https://cloud.githubusercontent.com/assets/14128808/9690059/2485569a-5308-11e5-9d96-eead2d71bf65.png)
+
 
 
