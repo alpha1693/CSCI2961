@@ -18,6 +18,10 @@ Take a look at many of popular examples of open source software: Mozilla Firefox
 "Readily available" refers to code that is in its original form to perform its function.  Therefore, published code that is "packed", "obfuscated", or full of "garbage" is not necessarily open source.
 The "HackedTeam" repository on GitHub, while containing the complete source code of a company's software, is not an example of "open source", as it was stolen from a private company and published without their permission.
 
+### Task 4 - How to Answer Questions in a Helpful Way
+Bring yourself to their level: don't assume that everyone inherently understands what you're doing.  Someone might actually be confused, and answering their question thoroughly can be an important learning experience to the asker!
+
+Stay grounded: this goes along with the last *tip*; don't try and make the asker look dumb by asserting some esoteric facts on them.  Take it more like a community approach, keep helping others and making people smarter.
 
 
 
