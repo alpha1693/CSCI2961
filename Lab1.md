@@ -29,6 +29,14 @@ I have a virtual machine of Kali Linux that I will use for this course.
 Here is a screenshot of the OS with a terminal:
 ![mounted my Git repository!](https://cloud.githubusercontent.com/assets/14128808/9690059/2485569a-5308-11e5-9d96-eead2d71bf65.png)
 
+### Task 6 - GREP
+Grep is a Linux application that allows for expression searching through files.  I found a useful resource through Google that helped me learn a bunch of new commands: http://www.thegeekstuff.com/2009/03/15-practical-unix-grep-command-examples/
+
+### Task 7 - Installing Tree
+Using terminal command "sudo apt-get install tree", I successfully installed Tree.
+
+![screenshot from 2015-09-04 13 36 54](https://cloud.githubusercontent.com/assets/14128808/9690425/4a296a24-530a-11e5-9489-d449dec55fd8.png)
+
 ### Task 8 - RegexOne
 
 The first two were easy, both accepted ".*"
