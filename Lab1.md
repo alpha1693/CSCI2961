@@ -45,5 +45,18 @@ Here are screenshots of the next two:
 ![screenshot from 2015-09-04 13 29 29](https://cloud.githubusercontent.com/assets/14128808/9690243/2a8c2d74-5309-11e5-8180-3c681d56a0da.png)
 ![screenshot from 2015-09-04 13 30 23](https://cloud.githubusercontent.com/assets/14128808/9690244/2a95e850-5309-11e5-9dd6-91d8752d8cfc.png)
 
+### Task 9 - Blockly
+![blockly](https://cloud.githubusercontent.com/assets/14128808/9740624/ad6f2b84-5623-11e5-9e09-29c2ae6f6c7c.png)
+
+### Task 10 - Project Idea
+
+An idea that may be controversial and perhaps not suitable to be "open source" per se, is "spyware" that is designed for law enforcement to execute search warrants electronically before having to storm down property to physically extract possible incriminating evidence (through chat logs, microphone audio, webcam capture, and more).  This can save the hassle of law enforcement from having to invade a home just to seize a computer, only to find nothing.  A lead from electronic evidence can guarantee charges be pressed on a suspect when he/she is arrested.
+
+While an effort like this is considered "well-intentioned", it raises issues in the computer security community, who believe that nobody, not governments, companies, nor people should have access to malicious software that is designed to access another computer without authorization.
+
+I agree that unauthorized access to anyone's information should be illegal and punishable to the furthest extent of the law.  However, this software would only be available once a warrant is obtained through the justice system, which permits "search and seizure" by law enforcement agents.
+
+By having the software as "open source" may give security companies an edge over this so called "malware", and a suspect's antivirus software may pick up the legally placed spyware before the necessary evidence is obtained.  
+
 
 
