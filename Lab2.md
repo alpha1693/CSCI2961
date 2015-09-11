@@ -20,5 +20,14 @@ Whether or not software is free or for profit, a license should always be includ
 
 Gopher was an early form of Internet file transfer protocol.  It lacked any form of hypertext transfer (viewing webpages directly with formatting, images, content, etc.).  Overall, the idea of HTTP was far more appealing to the general public as it allowed users to connect to servers and receive more than just a file directory listing.  It allowed the server manager to create "user friendly" guides to content, instead of a user just guessing what files are relevant.  Hyperlinks allowed for relevance based technologies like search engines to arise.  However, these are just reasons why HTTP was superior to Gopher in terms of features.  Gopher could have easily implemented more features had it been more available to the public.  Being closed software, development was limited to its creators, and distribution was harder to work with in its legal limits.  I believe the failure to open Gopher development to the public was the "bigger picture" problem with Gopher.
 
+### Task 5 - Common Licenses
+
+Linux holding a GPL v2 is a great idea because of the influx of helpful community contributions that come along with the required release of source code.  Any vulnerabilities that threaten end user's security can be patched by anyone who knows how, and patches can be applied every day with changes known as "nightly builds".
+
+### Task 6,7,8 - Presentation...
+
+It's hard to say there is a "best" license for a business or public good.  
+However, a general consensus agreed that the GPL v2 is best for public good, while LGPL or Apache (prevent patent issues) are ideal for a business.
+
 
 
