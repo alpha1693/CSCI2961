@@ -16,4 +16,9 @@ Now suppose that the licenses of these popular softwares are suspended.  It beco
 
 Whether or not software is free or for profit, a license should always be included, so that users are aware of their rights and that content creators don't accidentally restrict potentially helpful rights that can improve their software.
 
+### Task 4 - Gopher
+
+Gopher was an early form of Internet file transfer protocol.  It lacked any form of hypertext transfer (viewing webpages directly with formatting, images, content, etc.).  Overall, the idea of HTTP was far more appealing to the general public as it allowed users to connect to servers and receive more than just a file directory listing.  It allowed the server manager to create "user friendly" guides to content, instead of a user just guessing what files are relevant.  Hyperlinks allowed for relevance based technologies like search engines to arise.  However, these are just reasons why HTTP was superior to Gopher in terms of features.  Gopher could have easily implemented more features had it been more available to the public.  Being closed software, development was limited to its creators, and distribution was harder to work with in its legal limits.  I believe the failure to open Gopher development to the public was the "bigger picture" problem with Gopher.
+
+
 
