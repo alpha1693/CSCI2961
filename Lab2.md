@@ -29,5 +29,8 @@ Linux holding a GPL v2 is a great idea because of the influx of helpful communit
 It's hard to say there is a "best" license for a business or public good.  
 However, a general consensus agreed that the GPL v2 is best for public good, while LGPL or Apache (prevent patent issues) are ideal for a business.
 
+### Task 9 - Project
+
+I'll be working with Alvin Leung, Christopher Ngai, Aman Zargarpur, and Helen on a Google Chrome extension.
 
 
