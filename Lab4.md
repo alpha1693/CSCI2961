@@ -14,3 +14,5 @@ After the colon, the sentence should have read "full memory dumps, which hold th
 
 While there were several little comma based errors in the handbook, this one was particularly confusing because it was fusing two list items together.
 
+I have reported this bug and here is the link.
+https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=203345
