@@ -25,3 +25,7 @@ The difference between the two commands is that one opens the GUI application fo
 ![level3](https://cloud.githubusercontent.com/assets/14128808/10105449/b4fdb8be-637c-11e5-8cdd-7f3983282152.png)
 
 ![level4](https://cloud.githubusercontent.com/assets/14128808/10105450/b4ff1cf4-637c-11e5-9d2f-ebdc24f2afcb.png)
+
+### Task 3
+
+https://github.com/alpha1693/courseproject/blob/master/References.md - this is the repository that will be updated as more resources and references for the project are found.
