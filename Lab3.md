@@ -10,6 +10,12 @@ https://github.com/alpha1693/Lab3
 
 There is now a python file in this repository! It prints "Hello World".
 
+The difference between the two commands is that one opens the GUI application for gitk while the latter prints an ASCII visual of the branches on the terminal.
+
+![](https://cloud.githubusercontent.com/assets/14128808/10105557/534c7a6e-637d-11e5-86d0-c4e0acccf93b.png)
+
+![](https://cloud.githubusercontent.com/assets/14128808/10105558/534ca746-637d-11e5-97b4-19777c55c748.png)
+
 ### Task 2
 
 ![level1](https://cloud.githubusercontent.com/assets/14128808/10105448/b4f6d10c-637c-11e5-9954-eeebce5ab26a.png)
